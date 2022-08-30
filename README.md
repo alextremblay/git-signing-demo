@@ -17,6 +17,8 @@ You will need to [install homebrew](https://brew.sh/) if you haven't already.
 $ brew install git gpg
 ```
 
+Hello there!
+
 ### Windows
 Download and install git from [the official Git website](https://git-scm.com/).
 Default settings should be OK for most. This should install git, the git bash shell
